@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c918ed1d5c65534b9081ea926058239, type: 3}
+  m_Name: ThemeDark
+  m_EditorClassIdentifier: 
+  blocks:
+  - blockType: 2
+    blockSprite: {fileID: 21300000, guid: 0381e6c09c3a49345b490056c93c15c4, type: 3}
+  - blockType: 4
+    blockSprite: {fileID: 21300000, guid: 73c728b0ff7803b498b85600dda56ffa, type: 3}
+  - blockType: 8
+    blockSprite: {fileID: 21300000, guid: c4a1ab3f4fdf37d4bbdbea1f4f65a5b8, type: 3}
+  - blockType: 16
+    blockSprite: {fileID: 21300000, guid: 7ab690a340ebc17499d29f17a80a8aca, type: 3}
+  - blockType: 32
+    blockSprite: {fileID: 21300000, guid: 5afc88c1007a73e45b4a0b1e78b1965a, type: 3}
+  - blockType: 64
+    blockSprite: {fileID: 21300000, guid: 84c6b14e268c763449b5416b2e58d74e, type: 3}
+  - blockType: 128
+    blockSprite: {fileID: 21300000, guid: 36bf8203d77f0dd4893acde8c60323b8, type: 3}
+  - blockType: 256
+    blockSprite: {fileID: 21300000, guid: 138e9490b285dc040b1c6dbbfc359c36, type: 3}
+  - blockType: 512
+    blockSprite: {fileID: 21300000, guid: c73ad0de524b26c4bbac8eed076f7f11, type: 3}
+  - blockType: 1024
+    blockSprite: {fileID: 21300000, guid: 1edda6f7d74aa11409ac327dccf04400, type: 3}
+  - blockType: 2048
+    blockSprite: {fileID: 21300000, guid: e3a39b99687451f4ba34bcf12b010279, type: 3}
+  - blockType: 0
+    blockSprite: {fileID: 21300000, guid: 6938244007f9ab149af335ab844f6056, type: 3}
+  cartSprite: {fileID: 21300000, guid: 2727927eb916b294fa180b5fbb61c5ae, type: 3}
+  themeToggleSprite: {fileID: 21300000, guid: 8667bd0d13976de468fdc9063ca4e2ad, type: 3}
+  adBlockSprite: {fileID: 21300000, guid: ba1f0fea0ea865648ba8db067250a017, type: 3}
+  rankingButtonSprite: {fileID: 21300000, guid: 12b64c14f274d504da64c527030f2c79, type: 3}
+  rewindButtonSprite: {fileID: 21300000, guid: 1094784f39eb6304989e320f8fd43b95, type: 3}
+  restartButtonSprite: {fileID: 21300000, guid: 958a13db00662d0479d42b5b14265b3a, type: 3}
+  settingsButtonSprite: {fileID: 21300000, guid: 0bd4d4b641de7474686bdfdd22b6e5c3, type: 3}
+  soundButtonSprite: {fileID: 21300000, guid: 940e67520a79a7045a842402b06b74cb, type: 3}
+  vibrationButtonSprite: {fileID: 21300000, guid: 62923b4ef00842642b0d2c2302563cba, type: 3}
